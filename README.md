@@ -7,9 +7,11 @@ course because I'm very interested in coding and programing ,and I believe havin
 | Submission name        | title  |
 | ----------- | -----------| 
 | Lab: 02a   | [growth mindset](https://mohammadabufarweh.github.io/reading-notes/growthmindset) |
-| Lab 02a   | [Markdownon](https://mohammadabufaweh.github.io/reading-notes/markdownonGitHub)       |
-| Read 02a   | [read02a](https://mohammadabufaweh.github.io/reading-notes/read02a)   |
-|Read 02b       |      [read02b](https://mohammadabufaweh.github.io/reading-notes/read02b)        |
+| Lab 02a   | [Markdownon](https://mohammadabufarweh.github.io/reading-notes/MarkdownonGitHub)       |
+| Read 02a   | [read02a](https://mohammadabufarweh.github.io/reading-notes/read02a)   |
+|Read 02b       |      [read02b](https://mohammadabufarweh.github.io/reading-notes/read02b)        |
+
+
 
 
 
