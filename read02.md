@@ -21,7 +21,7 @@ characters appear italic.
 
 ## Horizontal Rules `<hr />`
 
-To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the` <hr />` tag.
+To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections using the`<hr />` tag.
 
 ## Breaks`<br />`
 Line Breaks`<br />` if you wanted to add a line break inside the middle of a paragraph you can use the line break tag `<br />.`
