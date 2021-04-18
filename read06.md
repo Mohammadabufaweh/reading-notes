@@ -34,7 +34,7 @@ Accessing and updating the DOM tree involves two steps:
 1. Locate the node that represents the element you want to work with.
 2. Use its text content, child elements, and attributes.
 
-STEP 1: ACCESS THE ELEMENTS
+## STEP 1: ACCESS THE ELEMENTS
 - SELECT AN INDIVIDUAL ELEMENT NODE
 Here are three common ways to select an individual element:
 1. get El ement Byld ()
@@ -53,7 +53,7 @@ There are three common ways to select multiple elements.
 1. previousSibl ing / nextSibl ing
 1. firstChild / lastChild
 
-STEP 2: WORK WITH THOSE ELEMENTS
+## STEP 2: WORK WITH THOSE ELEMENTS
 - ACCESS/ UPDATE TEXT NODES:
 1. Select the <l i >element
 2. Use the fi rstChi l d property
