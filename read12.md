@@ -23,23 +23,31 @@ To draw a line chart, the first thing we need to do is create a canvas element i
 ```
 Next, we need to write a script that will retrieve the context of the canvas
 
-+ Drawing a pie chart
++ Drawing a pie chart:
+
 Our line chart is complete, so let’s move on to our pie chart. First, we need the canvas element:
+
 ```html
 <canvas id="countries" width="600" height="400"></canvas>
 ```
 Next, we need to get the context and to instantiate the chart:
-```html
+
+```js
 var countries= document.getElementById("countries").getContext("2d");
 new Chart(countries).Pie(pieData, pieOptions)
 ```
-+ Drawing a bar chart
+
++ Drawing a bar chart:
+
 Finally, let’s add  a bar chart to our page. Happily the syntax for the bar chart is very similar to the line chart we’ve already added. First, we add the canvas element:
+
 ```html
 <canvas id="income" width="600" height="400"></canvas>
 ```
+
 Next, we retrieve the element and create the **graph**:
-```html
+
+```js
 var income = document.getElementById("income").getContext("2d");
 new Chart(income).Bar(barData);
 ```
@@ -90,41 +98,3 @@ Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, i
 
 Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 These properties might be familiar to you, if you have worked with CSS before.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
