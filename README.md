@@ -45,3 +45,29 @@ course because I'm very interested in coding and programing ,and I believe havin
 | read13     | [read13](https://mohammadabufarweh.github.io/reading-notes/read13)       |
 | read14a   | [read14a](https://mohammadabufarweh.github.io/reading-notes/read14a)        |
 | read14b     | [read14b](https://mohammadabufarweh.github.io/reading-notes/read14b)       |
+
+
+
+
+
+# Code 301 Reading Notes
+
+
+
+| Submission name      | links |
+| ----------- | ----------- |
+| read301-1     | [read301-1](https://mohammadabufarweh.github.io/reading-notes/read301-1)       |
+| read301-2   | [read301-2](https://mohammadabufarweh.github.io/reading-notes/read301-2)        |
+| read301-3     | [read301-3](https://mohammadabufarweh.github.io/reading-notes/read301-3)       |
+| read301-4   | [read301-4](https://mohammadabufarweh.github.io/reading-notes/read301-4)        |
+| read301-5     | [read301-5](https://mohammadabufarweh.github.io/reading-notes/read301-5)       |
+| read301-6   |[read301-6](https://mohammadabufarweh.github.io/reading-notes/read301-6)        |
+| read301-7     | [read301-7](https://mohammadabufarweh.github.io/reading-notes/read301-7)       |
+| read301-8   | [read301-8](https://mohammadabufarweh.github.io/reading-notes/read301-8)        |
+| read301-9     | [read301-9](https://mohammadabufarweh.github.io/reading-notes/read301-9)       |
+| read301-10   | [read301-10](https://mohammadabufarweh.github.io/reading-notes/read301-10)        |
+| read301-11     | [read301-11](https://mohammadabufarweh.github.io/reading-notes/read301-11)      |
+| read301-12   | [read301-12](https://mohammadabufarweh.github.io/reading-notes/read301-12)        |
+| read301-13     | [read301-13](https://mohammadabufarweh.github.io/reading-notes/read301-13)       |
+| read301-14   | [read301-14](https://mohammadabufarweh.github.io/reading-notes/read301-14)        |
+| read301-15     | [read301-15](https://mohammadabufarweh.github.io/reading-notes/read301-15)       |
