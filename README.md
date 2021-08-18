@@ -96,7 +96,7 @@ course because I'm very interested in coding and programing ,and I believe havin
 | read401-15     | [read401-15](https://mohammadabufarweh.github.io/reading-notes/read401-15)       |
 | read401-16   | [read401-16](https://mohammadabufarweh.github.io/reading-notes/read401-16)        |
 | read401-17     | [read401-17](https://mohammadabufarweh.github.io/reading-notes/read401-17)      |
-| read401-18   | [read401-18](https://mohammadabufarweh.github.io/reading-notes/read401-18)        |
+
 | read401-19     | [read401-19](https://mohammadabufarweh.github.io/reading-notes/read401-19)       |
 | read401-20   | [read401-20](https://mohammadabufarweh.github.io/reading-notes/read401-20)        |
 | read401-21     | [read401-21](https://mohammadabufarweh.github.io/reading-notes/read401-21)       |
