@@ -98,5 +98,18 @@ course because I'm very interested in coding and programing ,and I believe havin
 | read401-17     | [read401-17](https://mohammadabufarweh.github.io/reading-notes/read401-17)      |
 | read401-18     | [read401-18](https://mohammadabufarweh.github.io/reading-notes/read401-18)       |
 | read401-19     | [read401-19](https://mohammadabufarweh.github.io/reading-notes/read401-19)       |
-<!-- | read401-20    | [read401-20](https://mohammadabufarweh.github.io/reading-notes/read401-20)        |
-| read401-21     | [read401-21](https://mohammadabufarweh.github.io/reading-notes/read401-21)       | -->
+| read401-26     | [read401-26](https://mohammadabufarweh.github.io/reading-notes/read401-26)       |
+| read401-27   |[read401-27](https://mohammadabufarweh.github.io/reading-notes/read401-27)        |
+| read401-28     | [read401-28](https://mohammadabufarweh.github.io/reading-notes/read401-28)       |
+| read401-29   | [read401-29](https://mohammadabufarweh.github.io/reading-notes/read401-29)        |
+| read401-30     | [read401-30](https://mohammadabufarweh.github.io/reading-notes/read401-30)       |
+| read401-31   | [read401-31](https://mohammadabufarweh.github.io/reading-notes/read401-31)        |
+| read401-32     | [read401-32](https://mohammadabufarweh.github.io/reading-notes/read401-32)      |
+| read401-33   | [read401-33](https://mohammadabufarweh.github.io/reading-notes/read401-33)        |
+| read401-34     | [read401-34](https://mohammadabufarweh.github.io/reading-notes/read401-34)       |
+| read401-35   | [read401-35](https://mohammadabufarweh.github.io/reading-notes/read401-35)        |
+| read401-36     | [read401-36](https://mohammadabufarweh.github.io/reading-notes/read401-36)       |
+| read401-37   | [read401-37](https://mohammadabufarweh.github.io/reading-notes/read401-37)        |
+| read401-38     | [read401-38](https://mohammadabufarweh.github.io/reading-notes/read401-38)      |
+| read401-39     | [read401-39](https://mohammadabufarweh.github.io/reading-notes/read401-39)       |
+| read401-40     | [read401-40](https://mohammadabufarweh.github.io/reading-notes/read401-40)       |
